@@ -11,4 +11,4 @@ Maker Media GmbH
 
 Den Code zum Projekt findet ihr hier, die zusätzlichen Module unter folgendem [Link](https://github.com/StefanDraeger/micropython-ili9341).
 
-Den vollständigen Artikel mit der Bauanleitung gibt es in der <b>Make-Ausgabe 6/22</b> zu lesen.
+Den vollständigen Artikel mit der Bauanleitung gibt es in der <b><a href="https://www.heise.de/select/make/2022/6/2229713401335509429">Make-Ausgabe 6/22</a></b> zu lesen.
